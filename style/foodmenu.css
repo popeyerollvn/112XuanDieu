@@ -76,13 +76,17 @@ p{
     background-repeat: no-repeat;
     background-size: cover;
     overflow: hidden !important;
-    padding-bottom: 7rem;
+    padding-bottom: 0rem;
+    
 }
-.page-content{
-    
-    width: 90%;
-    margin: 0 auto;
-    
+.responsive {
+  max-width: 100%;
+  height: auto;
+    display: block;
+  margin-left: auto;
+  margin-right: auto;
+  
+   
 }
 
 h2{
